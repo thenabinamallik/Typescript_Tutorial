@@ -11,3 +11,11 @@ var userId = 39879387;
 // userId = 702948
 // boolean
 var isLoggedin = false;
+// any
+var hero;
+function getHero() {
+    // return "thor"
+    // return true
+    return 1;
+}
+hero = getHero();
